@@ -1,11 +1,10 @@
 # DVWA-Cloud-Parrot-Lab
-A secure cloud-based setup for Damn Vulnerable Web Application (DVWA) with Parrot OS integration for advanced security testing and learning.
-
-# DVWA Cloud Local PenTest
 
 This project provides a guide for setting up Damn Vulnerable Web Application (DVWA) on a cloud VM and testing it using Parrot OS running locally.
 
-**Note:** This project is not affiliated with or endorsed by the original DVWA project. For the official DVWA repository, please visit [https://github.com/digininja/DVWA](https://github.com/digininja/DVWA).
+**Note:** This project is not affiliated with or endorsed by the original DVWA project.
+
+## For the official DVWA repository, please visit [https://github.com/digininja/DVWA](https://github.com/digininja/DVWA).
 
 ## Overview
 
