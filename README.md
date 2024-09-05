@@ -37,6 +37,8 @@ This setup allows for a secure, isolated environment to practice ethical hacking
 
 ## Cloud VM Setup
 
+![image](https://github.com/user-attachments/assets/57a696a2-8b38-492f-a9cf-017fea167bdc)
+
 1. Create a VM instance on AWS EC2 or Google Cloud Platform.
 2. Choose a Ubuntu 20.04 LTS image.
 3. Configure security groups/firewall rules to allow SSH access only.
