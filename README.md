@@ -116,6 +116,8 @@ Copy
 
 ## Using Parrot OS for Testing
 
+![image](https://github.com/user-attachments/assets/feb3ef58-f1f5-4024-8be6-3af9862a7f01)
+
 1. Download and install Parrot OS Security Edition as a VM.
 2. Ensure Parrot OS VM and your cloud VM are on isolated networks.
 3. Use Parrot's built-in tools for testing DVWA vulnerabilities.
