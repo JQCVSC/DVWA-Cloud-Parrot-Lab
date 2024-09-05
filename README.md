@@ -6,6 +6,8 @@ This project provides a guide for setting up Damn Vulnerable Web Application (DV
 
 ## For the official DVWA repository, please visit [https://github.com/digininja/DVWA](https://github.com/digininja/DVWA)
 
+![image](https://github.com/user-attachments/assets/bf1b72ce-687b-45b5-aa93-38de749a223c)
+
 ## Overview
 
 1. Cloud VM: Hosts DVWA, accessible only through SSH tunneling
@@ -115,6 +117,8 @@ Copy
 3. Click on start/reset databsae at the bottome of the webpage
 
 4. Log in with default credentials: admin / password
+
+![image](https://github.com/user-attachments/assets/1616a4de-afb4-4e61-88fb-58679628f1ab)
 
 ## Using Parrot OS for Testing
 
