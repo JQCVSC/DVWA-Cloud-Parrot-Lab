@@ -4,7 +4,7 @@ This project provides a guide for setting up Damn Vulnerable Web Application (DV
 
 **Note:** This project is not affiliated with or endorsed by the original DVWA project.
 
-## For the official DVWA repository, please visit [https://github.com/digininja/DVWA](https://github.com/digininja/DVWA).
+## For the official DVWA repository, please visit [https://github.com/digininja/DVWA](https://github.com/digininja/DVWA)
 
 ## Overview
 
